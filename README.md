@@ -24,9 +24,12 @@
 ### 測試頁面
 
 * 檢查有沒有uid與token的資訊。
-  ![](https://i.imgur.com/wvSbipS.png)
+
+![](https://i.imgur.com/wvSbipS.png)
+
 * group的資料需要先由POST方法塞入資訊。
 * 塞入資訊後試著GET資料，看能不能取得資料庫內所有group的資訊。
-  ![](https://i.imgur.com/0wDlXaL.png)
+
+![](https://i.imgur.com/0wDlXaL.png)
 
 
